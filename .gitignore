@@ -3,4 +3,4 @@
 *.ckpt
 data/
 .ipynb_checkpoints
-
+sample.txt
